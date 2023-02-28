@@ -1,0 +1,362 @@
+[
+  {
+    "Id": "f057b0b3-a2e7-48b4-8d07-0355119570c8",
+    "Name": "[Xem] Tình hình sử dụng gói",
+    "Code": "ADMINPATIENTINPACKAGE_PATIENTINPACKAGESERVICEUSINGAPI"
+  },
+  {
+    "Id": "2aa5523d-ae66-4f7d-9765-14da3ac3aad3",
+    "Name": "[Xem] Chi tiết giá gói dịch vụ",
+    "Code": "ADMINPACKAGE_PRICEPOLICYDETAILAPI"
+  },
+  {
+    "Id": "0fabef5e-a202-438e-826d-16a493aa2002",
+    "Name": "[Xem] Danh sách thông tin Site",
+    "Code": "ADMINSITE_GETSITEINFOAPI"
+  },
+  {
+    "Id": "67dcbcfa-9868-4eb4-885b-195dabf935eb",
+    "Name": "[Xem] Thông tin chi tiết Gói",
+    "Code": "ADMINPACKAGE_GETPACKAGEDETAILAPI"
+  },
+  {
+    "Id": "25a67943-f300-4158-871a-1b08196a1584",
+    "Name": "[*][Xem] Thông tin User (02)",
+    "Code": "USER_GETUSERINFOAPI"
+  },
+  {
+    "Id": "a09f259a-a5ea-41f8-9ec6-1ca218462c66",
+    "Name": "[Cập nhật] Gói",
+    "Code": "ADMINPACKAGE_UPDATEPACKAGEAPI"
+  },
+  {
+    "Id": "29187293-8bac-49e1-b92b-23fa59c9ebf4",
+    "Name": "[Xem] Danh sách loại dịch vụ",
+    "Code": "ADMINSERVICE_GETSERVICECATEGORYAPI"
+  },
+  {
+    "Id": "5ca42f43-94c6-438c-8d5a-2ac2436af982",
+    "Name": "[Xóa] Con trong gói thai sản",
+    "Code": "ADMINPATIENTINPACKAGE_DeleteChildrenInPackageAPI"
+  },
+  {
+    "Id": "a6f4dc28-e74a-49da-917f-2ceb41645167",
+    "Name": "[Thêm] Xác nhận dịch vụ thuộc gói",
+    "Code": "ADMINPATIENTINPACKAGE_CONFIRMCHARGETOINPACKAGEAPI"
+  },
+  {
+    "Id": "3bedcc2e-6467-4234-9b2c-2f399342d639",
+    "Name": "[Thêm/Cập nhật] Dịch Vụ/ Thuốc / VTTH vào gói",
+    "Code": "ADMINPACKAGE_CREATEORUPDATESERVICEINPACKAGEAPI"
+  },
+  {
+    "Id": "b9039b2e-e6d6-4ce1-af92-331cf4532b5a",
+    "Name": "[Xem][Xem PL] Danh sách Site",
+    "Code": "ADMINSITE_GETSITEAPI"
+  },
+  {
+    "Id": "d6d08256-5359-4ced-a70b-3b8ff7961cc4",
+    "Name": "[Sync] Nâng cấp gói - Đồng bộ chỉ định từ OH",
+    "Code": "ADMINPATIENTINPACKAGE_TRANSFERRED_SYNCINPACKAGEAPI"
+  },
+  {
+    "Id": "d3f453e6-7982-4edb-b9a8-43a438c01e2a",
+    "Name": "[Xem] Chính sách giá còn hiệu lực",
+    "Code": "ADMINPACKAGE_PRICEPOLICYAVAILABLEAPI"
+  },
+  {
+    "Id": "cddba73b-1699-49d5-969d-44bc99cca1a2",
+    "Name": "[Xem] Thông tin chi tiết Nhóm Gói",
+    "Code": "ADMINPACKAGEGROUP_GETPACKAGEGROUPDETAILAPI"
+  },
+  {
+    "Id": "9544aed2-df8b-4042-bc8e-491f20f22abc",
+    "Name": "[Check] Kiểm tra đã có khách hàng đăng ký gói hay chưa?",
+    "Code": "ADMINPACKAGE_CHECKEXISTPATIENTREG"
+  },
+  {
+    "Id": "8677535c-57c1-4ae4-aae5-4a28897c4b5e",
+    "Name": "[Cập nhật] Đóng gói dịch vụ",
+    "Code": "ADMINPATIENTINPACKAGE_CLOSEPACKAGEAPI"
+  },
+  {
+    "Id": "ece3073b-3a4e-4787-a3d8-4d77128dcd72",
+    "Name": "[Xem] Danh sách lượt khám sử dụng gói",
+    "Code": "ADMINPATIENTINPACKAGE_PATIENTINPACKAGEVISITAPI"
+  },
+  {
+    "Id": "93928f05-5ec6-4c1d-89fd-4e58621afbcd",
+    "Name": "[Xem] Bảng thống kê chỉ định dịch vụ trong gói (khi hủy ngang)",
+    "Code": "ADMINPATIENTINPACKAGE_GETSTATISTICCHARGEWHENCANCELLEDINPACKAGEAPI"
+  },
+  {
+    "Id": "2c4ec0e5-07a6-4569-87ba-510680afe446",
+    "Name": "[Thêm mới] nhóm quyền",
+    "Code": "ADMINROLE_CREATEROLEAPI"
+  },
+  {
+    "Id": "0e77f45b-8c1c-4612-9bd9-5412ddf93fea",
+    "Name": "[Xem] Danh sách khách hàng trong gói",
+    "Code": "ADMINPATIENTINPACKAGE_GETLISTPATIENTINPACKAGEAPI"
+  },
+  {
+    "Id": "ffe5971f-3e3f-4421-af8d-5568328a5491",
+    "Name": "[Xóa] Dịch vụ/ Thuốc / VTTH trong gói",
+    "Code": "ADMINPACKAGE_DELETESERVICEINPACKAGEAPI"
+  },
+  {
+    "Id": "53930be0-bc18-4389-a64b-56a22062fee7",
+    "Name": "[Xem] Danh sách Gói",
+    "Code": "ADMINPACKAGE_GETLISTPACKAGEAPI"
+  },
+  {
+    "Id": "6bff3ac9-8b7e-4838-9f03-57819de549f6",
+    "Name": "[Xem][Xem PL] Thông tin User",
+    "Code": "USER_GETUSERAPI"
+  },
+  {
+    "Id": "5a5ae54d-7d54-4795-b16f-5c1712946729",
+    "Name": "[Xem] Màn hình xác nhận dịch vụ thuộc gói",
+    "Code": "ADMINPATIENTINPACKAGE_LISTCHARGETOCONFIRMINPACKAGEAPI"
+  },
+  {
+    "Id": "a37742b3-95a9-4fcc-b2fa-5eebd323e9cf",
+    "Name": "[Xem] Danh sách Nhóm Gói",
+    "Code": "ADMINPACKAGEGROUP_GETLISTPACKAGEGROUPAPI"
+  },
+  {
+    "Id": "61082923-8936-4658-84ec-6181ee858c98",
+    "Name": "[Xem] Danh sách dịch vụ",
+    "Code": "ADMINSERVICE_GETSERVICEAPI"
+  },
+  {
+    "Id": "30f9eda4-9849-4c78-beeb-66f1f292709f",
+    "Name": "[Xem] Danh sách con thuộc gói dịch vụ",
+    "Code": "ADMINPATIENTINPACKAGE_GETCHILDRENINPACAKGEAPI"
+  },
+  {
+    "Id": "28a4d294-8841-481b-959d-6701ddbe84bf",
+    "Name": "[Xóa] Nhóm Gói",
+    "Code": "ADMINPACKAGEGROUP_DELETEPACKAGEGROUPAPI"
+  },
+  {
+    "Id": "abcf6d80-e035-4ee8-9fd4-67df8b0aa704",
+    "Name": "[Cập nhật] Thông tin User",
+    "Code": "ADMINUSER_UPDATEUSERAPI"
+  },
+  {
+    "Id": "458207a2-fd89-49b5-9a29-687c71cd932b",
+    "Name": "[Xem][User] Thông tin AD, tạo mới User",
+    "Code": "ADMINUSER_GETADAPI"
+  },
+  {
+    "Id": "69670050-7a27-4456-9adb-6a5614907030",
+    "Name": "[Tạo] Thông tin User",
+    "Code": "ADMINUSER_CREATEUSERDETAILAPI"
+  },
+  {
+    "Id": "9562c45f-5117-4d47-8149-72a4d0f7c2a1",
+    "Name": "[FN] Tính lại giá",
+    "Code": "ADMINPACKAGE_CALCULATEPRICEAPI"
+  },
+  {
+    "Id": "1ce83778-526d-49ee-af7f-74637b25717b",
+    "Name": "[Xem] Danh sách Dịch Vụ trong Gói",
+    "Code": "ADMINPACKAGE_GETLISTSERVICEINPACKAGEAPI"
+  },
+  {
+    "Id": "977647dc-22b0-4540-a574-754e56486a37",
+    "Name": "[Cập nhật] Nhóm Gói",
+    "Code": "ADMINPACKAGEGROUP_UPDATEPACKAGEGROUPAPI"
+  },
+  {
+    "Id": "44f23534-ba62-4ba2-bde7-76138b364976",
+    "Name": "[Cập nhật] Mapping Action vào nhóm",
+    "Code": "ADMINACTION_MAPPINGGROUPACTIONAPI"
+  },
+  {
+    "Id": "ff6271b6-7a7a-45e8-b01a-787b4f169f54",
+    "Name": "[Cập nhật] Nhóm quyền",
+    "Code": "ADMINROLE_UPDATEROLEAPI"
+  },
+  {
+    "Id": "9eea1c33-bfb9-44a2-b998-808be57100c9",
+    "Name": "[Xem] Export Bảng thống kê theo lượt khám",
+    "Code": "ADMINPATIENTINPACKAGE_EXPORTSTATISTICCHARGEVIAVISITAPI"
+  },
+  {
+    "Id": "1514d9ee-7225-440d-a8a2-80df1b779a93",
+    "Name": "[Xem] Export Tình hình sử dụng gói",
+    "Code": "ADMINPATIENTINPACKAGE_PATIENTINPACKAGEEXPORTSERVICEUSINGAPI"
+  },
+  {
+    "Id": "a33ebfce-39ac-4287-8cb5-83445f9f6d6f",
+    "Name": "[Cập nhật] Hủy/ Hủy ngang gói dịch vụ",
+    "Code": "ADMINPATIENTINPACKAGE_CANCELLEDPACKAGEAPI"
+  },
+  {
+    "Id": "272f4127-0857-446f-9e0a-85813684f1fe",
+    "Name": "[Xem] Thông tin chi tiết User",
+    "Code": "ADMINUSER_GETUSERDETAILAPI"
+  },
+  {
+    "Id": "566a15a6-e1a3-4fac-ba8b-8ee46b23dd88",
+    "Name": "[Act] In bảng thống kê chỉ định theo lượt khám",
+    "Code": "ADMINPATIENTINPACKAGE_PRINTSTATISTICVIAVISITAPI"
+  },
+  {
+    "Id": "fed0ce3b-cd42-4107-a944-95712243a252",
+    "Name": "[Xem] Giá dịch vụ (HIS)",
+    "Code": "ADMINPACKAGE_GETSERVICEPRICE"
+  },
+  {
+    "Id": "211bb0d5-257c-4ce5-b0d5-975ac74fd24f",
+    "Name": "[Xem] Danh sách ChargeType",
+    "Code": "ADMINPACKAGE_GETCHARGETYPEBYHOSPITAL"
+  },
+  {
+    "Id": "46e5a59c-8a68-46e7-b40d-9fc84c47c06e",
+    "Name": "[FN] Kiểm tra dữ liệu thiết lập gói",
+    "Code": "ADMINPACKAGE_CHECKVALIDINPUTUPDATESERVICEINPACKAGEAPI"
+  },
+  {
+    "Id": "9ba08952-7bff-4e86-890b-a5964eb0e41e",
+    "Name": "[FN] Xem hoặc Tính lại đơn giá dịch vụ đăng ký",
+    "Code": "ADMINPATIENTINPACKAGE_GETLISTPATIENTINSERVICEAPI"
+  },
+  {
+    "Id": "dca01d8c-a796-4f3b-9671-a6ca2aab1fca",
+    "Name": "Đăng ký gói khám",
+    "Code": "ADMINPATIENTINPACKAGE_REGISTERPACKAGEAPI"
+  },
+  {
+    "Id": "e0d60961-e91c-474f-9a6b-a7a74ea26bb7",
+    "Name": "[Xóa] Gói",
+    "Code": "ADMINPACKAGE_DELETEPACKAGEAPI"
+  },
+  {
+    "Id": "0aac6b47-38dd-44c1-acda-a903b2f2b059",
+    "Name": "[Act] In Phiếu đăng ký gói",
+    "Code": "ADMINPATIENTINPACKAGE_PRINTPACKAGREGISTRATIONFORMAPI"
+  },
+  {
+    "Id": "a28c422d-45ba-4a5f-9a07-aa54bbac006e",
+    "Name": "[Xem] Chi tiết nhóm quyền",
+    "Code": "ADMINROLE_GETDETAILROLEAPI"
+  },
+  {
+    "Id": "548e801f-410e-476a-8af7-aac02078e8d6",
+    "Name": "[FN] Tính giá",
+    "Code": "ADMINPACKAGE_CALCULATEPRICEDETAILAPI"
+  },
+  {
+    "Id": "7f4cfc88-acbd-4496-939f-ac542e069f81",
+    "Name": "[Valid_View] Nâng cấp gói - Ktra tính hợp lệ của dữ liệu và lấy thông tin thanh toán",
+    "Code": "ADMINPATIENTINPACKAGE_TRANSFERRED_VIEWPAYMENTINPACKAGEAPI"
+  },
+  {
+    "Id": "64126c0a-5a3f-4d03-b20e-ac9eeec6d3e7",
+    "Name": "[Xem] Chi tiết thông tin khách trong gói",
+    "Code": "ADMINPATIENTINPACKAGE_PATIENTINPACKAGEINFODETAILAPI"
+  },
+  {
+    "Id": "49f3108c-2670-45a6-8a47-b179420dd239",
+    "Name": "[Xem] Danh sách nhóm Action",
+    "Code": "ADMINACTION_GETLISTGROUPACTIONAPI"
+  },
+  {
+    "Id": "53bf53c1-ceca-436d-a7f0-b919af76aa4c",
+    "Name": "[Xem] Danh sách User",
+    "Code": "ADMINUSER_GETLISTUSERAPI"
+  },
+  {
+    "Id": "b7e04bd7-0ef2-4edc-9d28-ba96823657b5",
+    "Name": "[Xem] Danh sách [Site] đã apply chính sách giá",
+    "Code": "ADMINPACKAGE_GETLISTPRICEPOLICYSITEAPI"
+  },
+  {
+    "Id": "3e39f757-b819-49b4-9510-c6dd5ae3c242",
+    "Name": "[Xem] Chi tiết nhóm Action",
+    "Code": "ADMINACTION_GETDETAILGROUPACTIONAPI"
+  },
+  {
+    "Id": "4244f15c-ffe9-4740-a18e-cee51c4dd082",
+    "Name": "[Check] Nâng câp gói - Ktra có chỉ định xuất bảng kê?",
+    "Code": "ADMINPATIENTINPACKAGE_TRANSFERRED_CHECKEXISTINVOICEDPACKAGEAPI"
+  },
+  {
+    "Id": "c591d03b-0f67-47f0-8e57-d3297d0404ae",
+    "Name": "[Thêm mới] Nhóm Gói",
+    "Code": "ADMINPACKAGEGROUP_CREATEPACKAGEGROUPAPI"
+  },
+  {
+    "Id": "72a5476f-796c-4f42-8e9a-d67bd501b6d9",
+    "Name": "[Thêm/Cập nhật] Con vào gói thai sản",
+    "Code": "ADMINPATIENTINPACKAGE_CREATEORUPDATECHILDRENINPACKAGEAPI"
+  },
+  {
+    "Id": "0048be12-da39-4ddf-97c6-d766d0046929",
+    "Name": "[Xem] Tìm kiếm khách hàng",
+    "Code": "ADMINPATIENTINPACKAGE_GETLISTPATIENTAPI"
+  },
+  {
+    "Id": "40789a5d-e76c-48fb-bd85-dedecd48d093",
+    "Name": "[Xem] Danh sách nhóm dịch vụ",
+    "Code": "ADMINSERVICE_GETSERVICEGROUPAPI"
+  },
+  {
+    "Id": "b21784ba-ac56-4e84-b59c-e1cef6944109",
+    "Name": "[Xem] Danh sách [Mã] Chính sách giá",
+    "Code": "ADMINPACKAGE_GETLISTPRICEPOLICYCODEAPI"
+  },
+  {
+    "Id": "3efbd504-a137-4e49-af6d-e28dee614fdc",
+    "Name": "[Xem] Danh sách phòng ban",
+    "Code": "ADMINCOMMON_GETLISTDEPARTMENTAPI"
+  },
+  {
+    "Id": "7656b65b-fc33-4d8d-a0ae-e2f8151f0e66",
+    "Name": "[Cập nhật] Nâng cấp gói",
+    "Code": "ADMINPATIENTINPACKAGE_TRANSFERREDPACKAGEAPI"
+  },
+  {
+    "Id": "d8e1db3d-13d1-4792-90d2-e54448e7b115",
+    "Name": "[Cập nhật] Hủy ngang gói dịch vụ",
+    "Code": "ADMINPATIENTINPACKAGE_TERMINATEDPACKAGEAPI"
+  },
+  {
+    "Id": "8a7ec358-dafb-42d7-8938-ea5418b48616",
+    "Name": "[Xem] Truy xuất thông tin AD",
+    "Code": "ADMINUSER_GETADINFOAPI"
+  },
+  {
+    "Id": "12146b77-6929-4d45-980b-f73c29e3ef18",
+    "Name": "[Xem] Danh sách nhóm quyền",
+    "Code": "ADMINROLE_GETLISTROLEAPI"
+  },
+  {
+    "Id": "aa6259ca-0008-4eff-a147-f8ad71b9a2a9",
+    "Name": "[Thêm mới] Gói",
+    "Code": "ADMINPACKAGE_CREATEPACKAGEAPI"
+  },
+  {
+    "Id": "976301c8-1dac-468e-82be-f8d2060c2ddc",
+    "Name": "[Xem] Danh sách Module",
+    "Code": "ADMINACTION_GETLISTMODULEAPI"
+  },
+  {
+    "Id": "51c0aad2-6d6d-49dc-adc7-f92879ec7faa",
+    "Name": "[Xem] Bảng thống kê chỉ định theo lượt khám",
+    "Code": "ADMINPATIENTINPACKAGE_GETSTATISTICCHARGEVIAVISITAPI"
+  },
+  {
+    "Id": "22f830c6-36aa-4f7a-b7b8-f978e3281d3c",
+    "Name": "[Xem][Nhóm quyền] Danh sách Action",
+    "Code": "ADMINACTION_GETLISTACTIONAPI"
+  },
+  {
+    "Id": "31a6b821-9b56-405c-9d15-fb30d1d1bd7b",
+    "Name": "Thiết lập chính sách giá",
+    "Code": "ADMINPACKAGE_CREATEORUPDATEPRICEPOLICYAPI"
+  }
+]
